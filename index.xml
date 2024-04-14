@@ -11,15 +11,15 @@
       <itunes:email>your@email.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://example.com/podcast-image.jpg"/>
-    <itunes:category text="Category Name"/>
+    <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Episode 1: Sample Episode</title>
       <description>This is a sample episode for the podcast.</description>
-      <pubDate>Sat, 13 Apr 2024 12:00:00 GMT</pubDate>
-      <enclosure url="https://pomf2.lain.la/f/3yei20z2.mp3" length="3343200" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Apr 2023 12:00:00 GMT</pubDate>
+      <enclosure url="https://pomf2.lain.la/f/3yei20z2.mp3" length="528225" type="audio/mpeg"/>
       <itunes:duration>02:47</itunes:duration>
-      <guid>https://example.com/podcast/episode1</guid>
+      <guid>https://example.com/podcast/episode-1-sample</guid>
     </item>
   </channel>
 </rss>
