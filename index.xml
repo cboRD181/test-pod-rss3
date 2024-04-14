@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Sample Podcast</title>
+    <link>https://example.com/podcast</link>
+    <description>A sample podcast created for learning purposes.</description>
+    <language>en-us</language>
+    <itunes:author>Your Name</itunes:author>
+    <itunes:owner>
+      <itunes:name>Your Name</itunes:name>
+      <itunes:email>your@email.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://example.com/podcast-image.jpg"/>
+    <itunes:category text="Category Name"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Episode 1: Sample Episode</title>
+      <description>This is a sample episode for the podcast.</description>
+      <pubDate>Sat, 13 Apr 2024 12:00:00 GMT</pubDate>
+      <enclosure url="https://pomf2.lain.la/f/3yei20z2.mp3" length="FILE_SIZE_IN_BYTES" type="audio/mpeg"/>
+      <itunes:duration>DURATION_IN_MM:SS</itunes:duration>
+      <guid>https://example.com/podcast/episode1</guid>
+    </item>
+  </channel>
+</rss>
