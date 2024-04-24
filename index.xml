@@ -20,6 +20,7 @@
       <enclosure url="https://pomf2.lain.la/f/vys4xe.mp3" length="29471389" type="audio/mpeg"/>
       <itunes:duration>30:42</itunes:duration>
       <guid>https://getarticulo.com/podcast/grug-brained-dev</guid>
+      <itunes:image href="https://i.imgur.com/qV3Oen7.jpeg"/>
     </item>
     <item>
       <title>Once More to the Lake</title>
@@ -28,6 +29,7 @@
       <enclosure url="https://pomf2.lain.la/f/x9ier.mp3" length="15630671" type="audio/mpeg"/>
       <itunes:duration>16:17</itunes:duration>
       <guid>https://getarticulo.com/podcast/once-more-to-the-lake</guid>
+      <itunes:image href="https://i.imgur.com/gQwdZCS.jpeg"/>
     </item>
     <item>
       <title>Sunday Morning</title>
