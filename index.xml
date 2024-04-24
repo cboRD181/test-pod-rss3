@@ -23,7 +23,7 @@
     </item>
     <item>
       <title>Once More to the Lake</title>
-      <description>First published in Harper’s magazine in 1941, “Once More to the Lake” narrates White’s visit to Belgrade Lakes, Maine, where he had vacationed as a child..</description>
+      <description>First published in Harper's magazine in 1941, "Once More to the Lake" narrates White's visit to Belgrade Lakes, Maine, where he had vacationed as a child..</description>
       <pubDate>Wed., 17 Apr 2023 03:37:00 GMT</pubDate>
       <enclosure url="https://pomf2.lain.la/f/x9ier.mp3" length="15630671" type="audio/mpeg"/>
       <itunes:duration>16:17</itunes:duration>
@@ -31,11 +31,12 @@
     </item>
     <item>
       <title>Sunday Morning</title>
-      <description>This is the later and more definitive version of “Sunday Morning.” In 1915, editor Harriet Monroe asked Stevens to cut several stanzas for Poetry, and Stevens would later restore these cut stanzas when he published the poem in book form in 1923.</description>
+      <description>This is the later and more definitive version of "Sunday Morning." In 1915, editor Harriet Monroe asked Stevens to cut several stanzas for Poetry, and Stevens would later restore these cut stanzas when he published the poem in book form in 1923.</description>
       <pubDate>Wed., 19 Apr 2024 23:45:00 GMT</pubDate>
       <enclosure url="https://pomf2.lain.la/f/g6ebfhgv.mp3" length="7611218" type="audio/mpeg"/>
       <itunes:duration>05:37</itunes:duration>
       <guid>https://getarticulo.com/podcast/sunday-morning</guid>
+      <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
     </item>
   </channel>
 </rss>
