@@ -40,12 +40,30 @@
       <guid>https://getarticulo.com/podcast/sunday-morning</guid>
       <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
     </item>
-        <item>
+    <item>
       <title>The Mouse as a Microscope</title>
       <description>How the mouse found its way from Victorian novelty to a biomedical mainstay.</description>
       <pubDate>Fri., 7 Jun 2024 23:45:00 GMT</pubDate>
       <enclosure url="https://files.catbox.moe/w8by6c.mp3" length="34971732" type="audio/mpeg"/>
       <itunes:duration>36:26</itunes:duration>
+      <guid>https://getarticulo.com/podcast/sunday-morning</guid>
+      <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
+    </item>
+    <item>
+      <title>Eulogy for silence</title>
+      <description>Tinnitus is like a constant scream inside my head, depriving me of what I formerly treasured: the moments of serene quiet.</description>
+      <pubDate>Wed., 12 Jun 2024 23:45:00 GMT</pubDate>
+      <enclosure url="https://files.catbox.moe/w8by6c.mp3" length="34971732" type="audio/mpeg"/>
+      <itunes:duration>21:49</itunes:duration>
+      <guid>https://getarticulo.com/podcast/sunday-morning</guid>
+      <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
+    </item>
+    <item>
+      <title>HARD CASES FOR A HANDLE THEORY</title>
+      <description>Chalk, soap, cigarettes.</description>
+      <pubDate>Thur., 13 Jun 2024 23:45:00 GMT</pubDate>
+      <enclosure url="https://files.catbox.moe/w8by6c.mp3" length="34971732" type="audio/mpeg"/>
+      <itunes:duration>17:17</itunes:duration>
       <guid>https://getarticulo.com/podcast/sunday-morning</guid>
       <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
     </item>
