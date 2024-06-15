@@ -10,7 +10,7 @@
       <itunes:name>Oakley Web Snacks</itunes:name>
       <itunes:email>your@email.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://i.imgur.com/n5KJY7w.jpeg"/>
+    <itunes:image href="https://i.imgur.com/4UrG3Fx.jpeg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -56,7 +56,7 @@
       <enclosure url="https://files.catbox.moe/8niu0c.mp3" length="34971732" type="audio/mpeg"/>
       <itunes:duration>21:49</itunes:duration>
       <guid>https://getarticulo.com/podcast/sunday-morning</guid>
-      <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
+      <itunes:image href="https://i.imgur.com/4UrG3Fx.jpeg"/>
     </item>
     <item>
       <title>HARD CASES FOR A HANDLE THEORY</title>
@@ -65,7 +65,7 @@
       <enclosure url="https://files.catbox.moe/14161h.mp3" length="34971732" type="audio/mpeg"/>
       <itunes:duration>17:17</itunes:duration>
       <guid>https://getarticulo.com/podcast/sunday-morning</guid>
-      <itunes:image href="https://i.imgur.com/8CqJ2b5.jpeg"/>
+      <itunes:image href="https://i.imgur.com/NDqJJb9.jpeg"/>
     </item>
   </channel>
 </rss>
